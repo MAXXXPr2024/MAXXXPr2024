@@ -49,7 +49,7 @@ Proyecto de videojuego 2D centrado en gameplay, sistemas de juego, enemigos y su
 
 **Rol:** Gameplay Programmer / Game Developer
 
-🔗 [Itch.io](TU_LINK_DE_ITCHIO)
+
 
 ---
 
